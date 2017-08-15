@@ -2,3 +2,5 @@
 Introduction to Computer Programming
 
 My very first course in Computer Science. Three assignments, worked solo in all of them.
+
+Instructor: [Tom Fairgrieve](http://www.cs.toronto.edu/~tff/)
